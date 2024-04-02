@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className='App-logo' alt='logo' />
         <div style={{ fontSize: 30 }}>
           Version{' '}
-          <span style={{ color: 'red' }}>ahildarshan new commit</span>
+          <span style={{ color: 'red' }}>ahildarshan commit 1</span>
         </div>
       </header>
     </div>
